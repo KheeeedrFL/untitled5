@@ -7,7 +7,7 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application. deded
+  // This widget is the root of your application. dededcdcdc
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
